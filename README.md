@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# TextEditor-in-React
+
+A feature-rich TipTap-powered text editor integrated into a React application, offering multiple functionalities for seamless content creation and editing. This project leverages TipTap's flexibility and extensibility to deliver a highly customizable and user-friendly text editing experience.
+
+## Key Features
+- **Rich Text Formatting:** Includes support for bold, italic, underline, and other text styles.
+- **Headings and Paragraphs:** Create structured documents with multiple heading levels and paragraph formatting.
+- **Lists:** 8 Support for ordered and unordered lists for better content organization.
+- **Undo/Redo:** Navigate through editing history with undo and redo functionality.
+- **Responsive Design:** Fully responsive and works seamlessly across devices.
+
+This repository provides an example of a TipTap integration in React, making it easy to build and extend text editing capabilities in modern web applications.
+>>>>>>> dd6eb273fecf067b3f6b7c20996e9c6772416d5e
